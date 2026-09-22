@@ -1,2 +1,2 @@
 """Link preview support for PyGDOv8."""
-from module_link_preview import module_link_preview
+from gdo.link_preview.module_link_preview import module_link_preview
